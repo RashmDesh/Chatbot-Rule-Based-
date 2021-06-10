@@ -10,15 +10,28 @@ Chatboat look like:-
 
 Hi, I like to chat
 Please type lowercase English language to start a conversation. Type quit to leave 
+
 >hello
+>
 Hey there
+
 >how are you?
+>
 I'm doing very well
+
+
 >whats your name?
+>
 I'm a chatbot.And What's your name?
+
 >my name is rashmi
+>
 Hello rashmi, How are you today ?
+
 >i am fine
+>
 That is nice to hear
+
 >quit
+>
 It was nice talking to you. See you soon :)
